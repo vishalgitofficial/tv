@@ -55,7 +55,7 @@
 				<button class="btn submit-btn m-3" type="submit" disabled="disabled">REGISTER NOW</button>
                   <br>
 				
-			</form>
+			</form autocomplete = "off">
 			<div class="signup-notice p-2">
 					
 				</div>
