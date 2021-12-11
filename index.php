@@ -100,6 +100,7 @@
 <script src="js/ajax_sign_up.js"></script>
 <script src="js/ajax_activate.js"></script>
 <script src="js/ajax_login.js"></script>
+<script>alert()</script>
 
 </body>
 </html>  
